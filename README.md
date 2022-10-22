@@ -9,4 +9,5 @@
 >>> 
 >>> Salary + Bonuses
 >>> 
+>>> Prime + Number
 #### [ Developer : Blesslin Jerish R ]
