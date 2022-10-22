@@ -1,4 +1,12 @@
 ## DSAKush
 - Data structure and Algorithms with Kunal Kushwaha .
-- Basics
+> - Java & Python
+>> Basics
+>>
+>> Starter Programs
+>>
+>>> Name + Output
+>>> 
+>>> 
+>>> 
 #### [ Developer : Blesslin Jerish R ]
