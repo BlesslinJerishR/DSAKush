@@ -1,2 +1,4 @@
-# DSAKush
-Data structure and Algorithms with Kunal Kushwaha .
+## DSAKush
+- Data structure and Algorithms with Kunal Kushwaha .
+- Basics
+#### [ Developer : Blesslin Jerish R ]
