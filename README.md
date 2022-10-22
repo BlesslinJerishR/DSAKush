@@ -7,6 +7,6 @@
 >>
 >>> Name + Output
 >>> 
->>> 
+>>> Salary + Bonuses
 >>> 
 #### [ Developer : Blesslin Jerish R ]
