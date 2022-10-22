@@ -1,14 +1,15 @@
-num = abs(int(input("Enter a number to check whether it is a prime or not : ")))
-checker = 2
-if num == 0:
-        print("It is not a prime number")
-elif num == 1 or num == 2:
-        print("It is a prime number")
+# Get a number
+number = abs(int(input("Enter a number to check whether it is a prime or not : ")))
+
+# To check greater than 1
+if number > 1:
+    for num in range(2, number):
+        # print(number,num)
+        if number % num == 0:
+            print("Not Prime number")
+            break
+    else:
+        print("Prime number")
+
 else:
-    while checker < num:
-        if num % checker == 0:
-            print("It is not a prime number")
-            break
-        else:
-            print("It is a prime number")
-            break
+    print("It is not a prime number") 
