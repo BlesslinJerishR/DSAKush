@@ -1,6 +1,6 @@
 ## DSAKush
 - Data structure and Algorithms with Kunal Kushwaha .
-> - Java & Python
+> -  From Java To Python
 >> Basics
 >>
 >> Starter Programs
