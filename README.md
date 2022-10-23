@@ -10,4 +10,7 @@
 >>> Salary + Bonuses
 >>> 
 >>> Prime + Number
+- Java Basics
+> Class | Main
+
 #### [ Developer : Blesslin Jerish R ]
