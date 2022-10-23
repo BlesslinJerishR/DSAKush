@@ -11,6 +11,8 @@
 >>> 
 >>> Prime + Number
 - Java Basics
-> Class | Main
-
+> Public Class
+>>Main
+>>
+>>
 #### [ Developer : Blesslin Jerish R ]
