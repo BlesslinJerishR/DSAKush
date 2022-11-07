@@ -10,6 +10,8 @@
 >>> Salary + Bonuses
 >>> 
 >>> Prime + Number
+>>> 
+>>> Celcius + Fahrenheit
 - Java Basics
 > Public Class
 >>Main
