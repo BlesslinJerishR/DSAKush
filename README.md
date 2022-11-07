@@ -16,5 +16,7 @@
 > Public Class
 >>Main
 >>
+>>Data Types
 >>
+>>Loops Conditionals
 #### [ Developer : Blesslin Jerish R ]
