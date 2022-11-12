@@ -15,4 +15,6 @@ class celcius_2_fahrenheit:
            >> """))
            celcius = (fahrenheit - 32) * (5/9)
            print("The converted temperature is " , celcius)
+        else:
+            print("Enter 1 or 2 Only")
     Temperature()
