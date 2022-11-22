@@ -14,6 +14,8 @@
 >>> Celcius + Fahrenheit
 >>> 
 >>> Fibonacci + Series
+>>> 
+>>> Sales + Discount
 - Java Basics
 > Public Class
 >>Main
